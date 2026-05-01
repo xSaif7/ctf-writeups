@@ -1,12 +1,12 @@
 # ctf-writeups
-# 📝 CTF Writeups — xSaif7
+#  CTF Writeups 
 
 Writeups documenting my hands-on penetration testing practice across CTF platforms.  
 Each writeup covers my full methodology — enumeration, exploitation, and privilege escalation.
 
 ---
 
-## 📁 Structure
+##  Structure
 
 ```
 ctf-writeups/
@@ -18,7 +18,7 @@ Browse the folders above to find writeups by platform.
 
 ---
 
-## 🎯 Focus Areas
+##  Focus Areas
 
 - Network & Service Enumeration
 - Web Application Exploitation  
@@ -28,7 +28,7 @@ Browse the folders above to find writeups by platform.
 
 ---
 
-## 🧠 Goal
+##  Goal
 
 Documenting my journey toward OSCP and a career in offensive security.  
 Every writeup is written to explain **why**, not just **how**.
