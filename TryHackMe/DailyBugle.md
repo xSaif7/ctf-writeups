@@ -205,24 +205,3 @@ We run it and drop straight into a root shell. We grab the final flag from `/roo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# References 
